@@ -1,0 +1,42 @@
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.exe
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.deps.json
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.runtimeconfig.json
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.runtimeconfig.dev.json
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.dll
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.pdb
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.Views.dll
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\bin\Debug\netcoreapp3.1\WEB ASP 1.Views.pdb
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.csproj.AssemblyReference.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.AssemblyInfoInputs.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.AssemblyInfo.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorAssemblyInfo.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorAssemblyInfo.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\staticwebassets\WEB ASP 1.StaticWebAssets.Manifest.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\staticwebassets\WEB ASP 1.StaticWebAssets.Pack.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WEB ASP 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WEB ASP 1.props
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WEB ASP 1.props
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WEB ASP 1.props
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.TagHelpers.input.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.TagHelpers.output.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorCoreGenerate.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorTargetAssemblyInfo.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorTargetAssemblyInfo.cs
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.Views.pdb
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.dll
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.pdb
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.genruntimeconfig.cache
+C:\Users\Данил\Downloads\WEB2LaboratorKoshkarovaNina931901-main\WEB2LaboratorKoshkarovaNina931901-main\931901.Koshkarova.Nina.web2.lab1\obj\Debug\netcoreapp3.1\WEB ASP 1.csproj.CopyComplete
